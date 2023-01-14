@@ -1,6 +1,6 @@
 import Nav from './componets/Nav';
 import FirstCard from './componets/Card1';
-import Title from './componets/Title';
+// import Title from './componets/Title';
 import {chakraProvider}  from '@chakra-ui/react';
 import React from 'react';
 import SecondCard from './componets/Card2';
